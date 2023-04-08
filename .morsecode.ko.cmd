@@ -1,0 +1,1 @@
+cmd_/home/bobous/cmpt433/work/as4/morsecode.ko := arm-linux-gnueabihf-ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/bobous/cmpt433/work/as4/morsecode.ko /home/bobous/cmpt433/work/as4/morsecode.o /home/bobous/cmpt433/work/as4/morsecode.mod.o;  true
